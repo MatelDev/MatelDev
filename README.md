@@ -41,8 +41,8 @@ Saya menggunakan berbagai teknologi untuk menangani otomasi, networking, dan pen
 
 ### 📊 GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MatelDev&show_icons=true&theme=vivid" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatelDev&layout=compact&theme=vivid" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=MatelDev&show_icons=true&theme=vivid" height="150" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatelDev&layout=compact&theme=vivid" height="150" alt="Languages" />
 </p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=MatelDev&color=blue&style=flat-square)
